@@ -24,10 +24,12 @@ Enter any keyword (laptop, makeup, shoes) and the app will search Lazada for rel
  
 **Sorting Options:**
  Easily sort the displayed data by:
+ 
  - Highest Sold
  - Lowest Sold
  - Highest Price
  - Lowest Price
+ 
  This makes it easy to analyze the most popular or most affordable items.
  
 **CSV Export:**
