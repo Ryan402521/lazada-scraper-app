@@ -1,3 +1,14 @@
+Python Version Requirement
+Required: Python 3.7 or higher
+
+Recommended: Python 3.10 or above for best compatibility
+
+Download Python here:
+https://www.python.org/downloads/
+
+Install Required Python Packages
+Open Command Prompt (or Terminal) and run these commands one by one:
+
 pip install selenium
 pip install beautifulsoup4
 pip install requests
