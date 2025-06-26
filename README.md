@@ -75,9 +75,11 @@ Open Command Prompt (CMD) and run:
 - Keyword will be typed automatically into Lazada
 -	Products will be scraped page-by-page
 -	If CAPTCHA appears, a warning will pop up
+  
 **File Menu Options**
 -	Save as CSV: Save the currently displayed data.
 -	View Recent Data: Load any CSV you previously saved and display it in the table.
+  
 **Notes**
 -	Each Lazada page contains around 40 products.
 -	Double-click any row to open the product link in your browser.
