@@ -3,7 +3,7 @@ Lazada Scraper GUI is a lightweight desktop tool that extracts product data from
 
 Built with Python, Selenium, BeautifulSoup, and Tkinter, it automates product searches and displays:
 
-![image alt](https://github.com/Ryan402521/The-requirements.txt/blob/2e2ce3b69891722ea4b85f4af9c7ae8ae6c25520/Screenshot%20(324).png)
+![image alt]([https://github.com/Ryan402521/The-requirements.txt/blob/2e2ce3b69891722ea4b85f4af9c7ae8ae6c25520/Screenshot%20(324).png](https://github.com/Ryan402521/lazada-scraper-app/blob/55bec787eb4c3c801ab4669e80458da4b0c66921/Screenshot%20(324).png)
 Results are shown in a clean, sortable table and can be saved as a CSV file for further analysis.
 Perfect for researchers, online sellers, and data enthusiasts—no coding required.
 
